@@ -103,14 +103,14 @@
     <h2>Words That Move Mountains</h2>
     <p>"You weren’t born poor. You were born unclaimed. Now reclaim your legacy."</p>
     <p>Access quote posters, daily reels, and mentorship drops here.</p>
-    <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank">Follow on Instagram</a>
+    <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank" style="display:inline-block; text-align:center;">Follow on Instagram</a>
   </section>
 
   <section class="section" id="100k">
     <h2>How I Made My First R100K</h2>
     <p>No job. No degree. No capital. Just voice, truth, and movement. Read the 1-page PDF or watch the mini-series below.</p>
     <a class="cta" href="#">Read the PDF</a>
-    <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank">Watch the TikTok Series</a>
+    <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank" style="display:inline-block; text-align:center;">Watch the TikTok Series</a>
   </section>
 
   <section class="section" id="community">
