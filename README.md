@@ -94,7 +94,7 @@
 
   <section class="section hero" id="about">
     <h2>Welcome to the Rise</h2>
-    <p>I am Majdi — a man who rose from nothing with nothing. This is my journey of truth, voice, and transformation. If you're tired of being overlooked, you’re in the right place.</p>
+    <p>This is my journey of truth, voice, and transformation. If you're tired of being overlooked, you’re in the right place.</p>
     <a class="cta" href="#100k">Download My 100K Blueprint</a>
   </section>
 
