@@ -79,7 +79,7 @@
 </head>
 <body>
   <header>
-    <h1>Majdi</h1>
+    <h1>MAJDI</h1>
     <img src="majdi-logo.jpg" alt="Majdi Logo" width="100" style="margin-top: 10px;">
     <p>Service. Recovery. Prosperity. Unity.</p>
   </header>
