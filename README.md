@@ -114,7 +114,7 @@
 
   <section class="section" id="community">
     <h2>Join the Movement</h2>
-    <p>Private WhatsApp group, voice-only mentorships, live events, and street actions. Be part of the rebellion.</p>
+    <p>Private WhatsApp group, voice-only mentorships, live events.</p>
     <a class="cta" href="#">Join Now</a>
   </section>
 
