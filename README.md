@@ -47,7 +47,7 @@
       margin-bottom: 10px;
     }
     .cta {
-      background-color: #e6c200; /* gold */
+      background-color: #ffdb19; /* gold */
       padding: 10px 20px;
       border: none;
       font-size: 1rem;
