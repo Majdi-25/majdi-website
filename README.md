@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -54,6 +55,9 @@
       font-weight: bold;
       cursor: pointer;
       margin-top: 20px;
+      text-decoration: none;
+      display: inline-block;
+      color: #000;
     }
     .social-links {
       display: flex;
@@ -92,33 +96,33 @@
   <section class="section hero" id="about">
     <h2>Welcome to the Rise</h2>
     <p>I am Majdi — a man who rose from nothing with nothing. This is my journey of truth, voice, and transformation. If you're tired of being overlooked, you’re in the right place.</p>
-    <button class="cta">Download My 100K Blueprint</button>
+    <a class="cta" href="#100k">Download My 100K Blueprint</a>
   </section>
 
   <section class="section" id="quote">
     <h2>Words That Move Mountains</h2>
     <p>"You weren’t born poor. You were born unclaimed. Now reclaim your legacy."</p>
     <p>Access quote posters, daily reels, and mentorship drops here.</p>
-    <button class="cta">Follow on Instagram</button>
+    <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank">Follow on Instagram</a>
   </section>
 
   <section class="section" id="100k">
     <h2>How I Made My First R100K</h2>
     <p>No job. No degree. No capital. Just voice, truth, and movement. Read the 1-page PDF or watch the mini-series below.</p>
-    <button class="cta">Read the PDF</button>
-    <button class="cta">Watch the TikTok Series</button>
+    <a class="cta" href="#">Read the PDF</a>
+    <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank">Watch the TikTok Series</a>
   </section>
 
   <section class="section" id="community">
     <h2>Join the Movement</h2>
     <p>Private WhatsApp group, voice-only mentorships, live events, and street actions. Be part of the rebellion.</p>
-    <button class="cta">Join Now</button>
+    <a class="cta" href="#">Join Now</a>
   </section>
 
   <section class="section" id="shop">
     <h2>Official Shop</h2>
     <p>Get branded shirts, posters, and downloads. Represent the mission and fund the movement.</p>
-    <button class="cta">Shop Now</button>
+    <a class="cta" href="#">Shop Now</a>
   </section>
 
   <section class="section" id="contact">
