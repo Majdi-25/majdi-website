@@ -81,7 +81,7 @@
   <header>
     <h1>MAJDI</h1>
     <img src="majdi-logo.jpg" alt="Majdi Logo" width="100" style="margin-top: 10px;">
-    <p>Service. Recovery. Prosperity. Unity.</p>
+    <p>Unity. Service. Recovery. Prosperity.</p>
   </header>
   <nav>
     <a href="#about">About</a>
