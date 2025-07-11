@@ -93,20 +93,20 @@
   </nav>
 
   <section class="section hero" id="about">
-    <h2>Welcome to the Rise</h2>
+    <h2>About</h2>
     <p>This is my journey of truth, voice, and transformation. If you're tired of being overlooked, you’re in the right place.</p>
     <a class="cta" href="#100k">Download My 100K Blueprint</a>
   </section>
 
   <section class="section" id="quote">
-    <h2>Words That Move Mountains</h2>
+    <h2>Quotes</h2>
     <p>"You weren’t born poor. You were born unclaimed. Now reclaim your legacy."</p>
     <p>Access quote posters, daily reels, and mentorship drops here.</p>
     <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank">Follow on Instagram</a>
   </section>
 
   <section class="section" id="100k">
-    <h2>How I Made My First R100K</h2>
+    <h2>How I Made 100K</h2>
     <p>No job. No degree. No capital. Just voice, truth, and movement. Read the 1-page PDF or watch the mini-series below.</p>
     <a class="cta" href="#">Read the PDF</a>
     <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank">Watch the TikTok Series</a>
@@ -119,7 +119,7 @@
   </section>
 
   <section class="section" id="shop">
-    <h2>Official Shop</h2>
+    <h2>Shop</h2>
     <p>Get branded shirts, posters, and downloads. Represent the mission and fund the movement.</p>
     <a class="cta" href="#">Shop Now</a>
   </section>
