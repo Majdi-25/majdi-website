@@ -8,11 +8,11 @@
     body {
       margin: 0;
       font-family: 'Inter', sans-serif;
-      background-color: #f0fff4; /* light green */
-      color: #003366; /* dark blue */
+      background-color: #f4fdf4; /* peaceful green */
+      color: #000046; /* dark blue */
     }
     header {
-      background-color: #004d40; /* teal green */
+      background-color: #66a1a0; /* teal green */
       color: #fff;
       padding: 40px 20px;
       text-align: center;
@@ -25,7 +25,7 @@
       display: flex;
       justify-content: center;
       gap: 30px;
-      background-color: #003366; /* dark blue */
+      background-color: #000046; /* dark blue */
       padding: 10px;
       flex-wrap: wrap;
     }
@@ -47,7 +47,7 @@
       margin-bottom: 10px;
     }
     .cta {
-      background-color: #ffd700; /* gold */
+      background-color: #e6c200; /* gold */
       padding: 10px 20px;
       border: none;
       font-size: 1rem;
@@ -56,7 +56,7 @@
       margin-top: 20px;
       text-decoration: none;
       display: inline-block;
-      color: #000;
+      color: #000; /* black*/
     }
     .social-links {
       display: flex;
@@ -65,14 +65,14 @@
       margin-top: 20px;
     }
     .social-links a {
-      color: #004d40; /* teal green */
+      color: #66a1a0; /* teal green */
       font-weight: bold;
       text-decoration: none;
     }
     footer {
       text-align: center;
       padding: 30px;
-      background-color: #004d40; /* teal green */
+      background-color: #66a1a0; /* teal green */
       color: white;
     }
   </style>
