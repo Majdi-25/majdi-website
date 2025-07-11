@@ -1,18 +1,18 @@
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Majdi | Rise, Recover, Reclaim</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
       font-family: 'Inter', sans-serif;
-      background-color: #f8f5f0;
-      color: #1c1c1c;
+      background-color: #f0fff4; /* light green */
+      color: #003366; /* dark blue */
     }
     header {
-      background-color: #0a2239;
+      background-color: #004d40; /* teal green */
       color: #fff;
       padding: 40px 20px;
       text-align: center;
@@ -25,12 +25,12 @@
       display: flex;
       justify-content: center;
       gap: 30px;
-      background-color: #061928;
+      background-color: #003366; /* dark blue */
       padding: 10px;
       flex-wrap: wrap;
     }
     nav a {
-      color: #eee;
+      color: #fff;
       text-decoration: none;
       font-weight: 600;
     }
@@ -47,7 +47,7 @@
       margin-bottom: 10px;
     }
     .cta {
-      background-color: #ffc100;
+      background-color: #ffd700; /* gold */
       padding: 10px 20px;
       border: none;
       font-size: 1rem;
@@ -65,14 +65,14 @@
       margin-top: 20px;
     }
     .social-links a {
-      color: #0a2239;
+      color: #004d40; /* teal green */
       font-weight: bold;
       text-decoration: none;
     }
     footer {
       text-align: center;
       padding: 30px;
-      background-color: #0a2239;
+      background-color: #004d40; /* teal green */
       color: white;
     }
   </style>
@@ -80,7 +80,7 @@
 <body>
   <header>
     <h1>Majdi</h1>
-    <img src="majdi-logo.jpg" alt="majdi-logo" width="100" style="margin-top: 10px;">
+    <img src="majdi-logo.jpg" alt="Majdi Logo" width="100" style="margin-top: 10px;">
     <p>Service. Recovery. Prosperity through Unity & Loyalty.</p>
   </header>
   <nav>
@@ -102,14 +102,14 @@
     <h2>Words That Move Mountains</h2>
     <p>"You weren’t born poor. You were born unclaimed. Now reclaim your legacy."</p>
     <p>Access quote posters, daily reels, and mentorship drops here.</p>
-    <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank" style="display:inline-block; text-align:center;">Follow on Instagram</a>
+    <a class="cta" href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank">Follow on Instagram</a>
   </section>
 
   <section class="section" id="100k">
     <h2>How I Made My First R100K</h2>
     <p>No job. No degree. No capital. Just voice, truth, and movement. Read the 1-page PDF or watch the mini-series below.</p>
     <a class="cta" href="#">Read the PDF</a>
-    <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank" style="display:inline-block; text-align:center;">Watch the TikTok Series</a>
+    <a class="cta" href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank">Watch the TikTok Series</a>
   </section>
 
   <section class="section" id="community">
