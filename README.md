@@ -8,8 +8,8 @@
     body {
       margin: 0;
       font-family: 'Inter', sans-serif;
-      background-color: #6488EA; /* soft blue background */
-      color: #006400; /* dark green text */
+      background-color: #e6f2ff; /* soft blue background */
+      color: #003300; /* dark green text */
     }
     header {
       background-color: #006400; /* deep green */
@@ -25,7 +25,7 @@
       display: flex;
       justify-content: center;
       gap: 30px;
-      background-color: #000080; /* navy blue */
+      background-color: #00274d; /* navy blue */
       padding: 10px;
       flex-wrap: wrap;
     }
@@ -47,7 +47,7 @@
       margin-bottom: 10px;
     }
     .cta {
-      background-color: #D4AF37; /* metallic gold */
+      background-color: #ffd700; /* gold */
       padding: 10px 20px;
       border: none;
       font-size: 1rem;
@@ -56,7 +56,7 @@
       margin-top: 20px;
       text-decoration: none;
       display: inline-block;
-      color: #D4AF37;
+      color: #00274d;
     }
     .social-links {
       display: flex;
@@ -72,7 +72,7 @@
     footer {
       text-align: center;
       padding: 30px;
-      background-color: #000080; /* navy */
+      background-color: #00274d; /* navy */
       color: white;
     }
   </style>
