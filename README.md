@@ -1,4 +1,3 @@
-# majdi-website
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -28,6 +27,7 @@
       gap: 30px;
       background-color: #061928;
       padding: 10px;
+      flex-wrap: wrap;
     }
     nav a {
       color: #eee;
@@ -55,6 +55,17 @@
       cursor: pointer;
       margin-top: 20px;
     }
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .social-links a {
+      color: #0a2239;
+      font-weight: bold;
+      text-decoration: none;
+    }
     footer {
       text-align: center;
       padding: 30px;
@@ -66,7 +77,7 @@
 <body>
   <header>
     <h1>Majdi</h1>
-    <img src="your-logo-path.png" alt="Majdi Logo" width="100" style="margin-top: 10px;">
+    <img src="majdi-logo.png" alt="Majdi Logo" width="100" style="margin-top: 10px;">
     <p>Service. Recovery. Prosperity through Unity & Loyalty.</p>
   </header>
   <nav>
@@ -74,6 +85,7 @@
     <a href="#quote">Quotes</a>
     <a href="#100k">How I Made 100K</a>
     <a href="#community">Join the Movement</a>
+    <a href="#shop">Shop</a>
     <a href="#contact">Contact</a>
   </nav>
 
@@ -103,10 +115,22 @@
     <button class="cta">Join Now</button>
   </section>
 
+  <section class="section" id="shop">
+    <h2>Official Shop</h2>
+    <p>Get branded shirts, posters, and downloads. Represent the mission and fund the movement.</p>
+    <button class="cta">Shop Now</button>
+  </section>
+
   <section class="section" id="contact">
     <h2>Contact Majdi</h2>
     <p>Email: majdiwilliams@gmail.com<br>
     WhatsApp: +27 78 636 5478</p>
+
+    <div class="social-links">
+      <a href="https://www.tiktok.com/@voiceofthevoiceless_25" target="_blank">TikTok</a>
+      <a href="https://www.instagram.com/voiceofthevoiceless_25" target="_blank">Instagram</a>
+      <a href="https://www.youtube.com/@Majdi_25" target="_blank">YouTube</a>
+    </div>
   </section>
 
   <footer>
