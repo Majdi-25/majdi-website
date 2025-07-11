@@ -8,11 +8,11 @@
     body {
       margin: 0;
       font-family: 'Inter', sans-serif;
-      background-color: #f0fff4; /* light green */
-      color: #003366; /* dark blue */
+      background-color: #e6f2ff; /* soft blue background */
+      color: #003300; /* dark green text */
     }
     header {
-      background-color: #004d40; /* teal green */
+      background-color: #006400; /* deep green */
       color: #fff;
       padding: 40px 20px;
       text-align: center;
@@ -25,7 +25,7 @@
       display: flex;
       justify-content: center;
       gap: 30px;
-      background-color: #003366; /* dark blue */
+      background-color: #00274d; /* navy blue */
       padding: 10px;
       flex-wrap: wrap;
     }
@@ -56,7 +56,7 @@
       margin-top: 20px;
       text-decoration: none;
       display: inline-block;
-      color: #000;
+      color: #00274d;
     }
     .social-links {
       display: flex;
@@ -65,14 +65,14 @@
       margin-top: 20px;
     }
     .social-links a {
-      color: #004d40; /* teal green */
+      color: #004d40;
       font-weight: bold;
       text-decoration: none;
     }
     footer {
       text-align: center;
       padding: 30px;
-      background-color: #004d40; /* teal green */
+      background-color: #00274d; /* navy */
       color: white;
     }
   </style>
