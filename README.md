@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: 'Inter', sans-serif;
-      background-color: #f4ffef; /* light light green */
+      background-color: #fff; /* white */
       color: #000046; /* dark blue */
     }
     header {
